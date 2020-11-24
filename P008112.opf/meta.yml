@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1CZ1208
   title: བདེ་མཆོག་རིམ་ལྔའི་མན་ངག་།
-  volume: ''
+  volume:
+    a4baed6a3e8d44edb7141e69fa556033:
+      image_group_id: I1CZ2071
+      title: Volume 1 of bde mchog rim lnga'i man ngag
+      volume_number: 1
+      total_pages: 20
   author: ''
+ebook_metadata:
+  title: བདེ་མཆོག་རིམ་ལྔའི་མན་ངག་།
+  author: ''
+  sku: P008112
+  cover: cover.jpg
+  layers:
+  - pagination
